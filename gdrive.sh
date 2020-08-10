@@ -1,0 +1,1 @@
+bash -c "$(curl -fsSL https://raw.githubusercontent.com/liaojack8/gd-utils-cht/master/gdutilsinstall.sh)"
